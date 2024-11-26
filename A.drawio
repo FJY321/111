@@ -7,7 +7,7 @@
         <mxCell id="e5L5vD8oaQUCgjLPIQ8V-1" value="用户注册" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="60" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e5L5vD8oaQUCgjLPIQ8V-7" value="用户" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="e5L5vD8oaQUCgjLPIQ8V-7" value="用户" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="320" width="700" height="365" as="geometry" />
         </mxCell>
         <mxCell id="e5L5vD8oaQUCgjLPIQ8V-5" value="用户点击注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e5L5vD8oaQUCgjLPIQ8V-7">
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5L5vD8oaQUCgjLPIQ8V-48" value="未满足注册要求，注册失败" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="e5L5vD8oaQUCgjLPIQ8V-7">
+        <mxCell id="e5L5vD8oaQUCgjLPIQ8V-48" value="未满足注册要求，注册失败，请重新注册" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="e5L5vD8oaQUCgjLPIQ8V-7">
           <mxGeometry x="260" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5L5vD8oaQUCgjLPIQ8V-9" value="后台" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
