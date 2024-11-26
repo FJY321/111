@@ -10,9 +10,6 @@
         <mxCell id="e5L5vD8oaQUCgjLPIQ8V-7" value="用户" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="320" width="700" height="365" as="geometry" />
         </mxCell>
-        <mxCell id="e5L5vD8oaQUCgjLPIQ8V-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e5L5vD8oaQUCgjLPIQ8V-7" source="e5L5vD8oaQUCgjLPIQ8V-5" target="e5L5vD8oaQUCgjLPIQ8V-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e5L5vD8oaQUCgjLPIQ8V-5" value="用户点击注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e5L5vD8oaQUCgjLPIQ8V-7">
           <mxGeometry x="260.5" y="-71" width="120" height="60" as="geometry" />
         </mxCell>
