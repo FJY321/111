@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="659" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,20 +23,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-23" value="填写并提交注册表单" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.043;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="320.00000000000006" as="sourcePoint" />
-            <mxPoint x="290" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="点击“注册”按钮" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
-          <mxGeometry x="0.037" relative="1" as="geometry">
+          <mxGeometry x="0.9944" y="-346" relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y6oW1CbCKug0-mubhI6-2" value="显示注册表单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="740" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6y6oW1CbCKug0-mubhI6-4" value="验证用户账号是否符合注册要求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="30" as="geometry" />
@@ -75,6 +69,90 @@
             </Array>
             <mxPoint x="287" y="392" as="sourcePoint" />
             <mxPoint x="-145" y="-118" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-10" value="注册界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="651" y="105" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="6y6oW1CbCKug0-mubhI6-10">
+          <mxGeometry x="45" y="100" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-23" value="填写并提交注册表单" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.043;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6y6oW1CbCKug0-mubhI6-10" edge="1">
+          <mxGeometry x="-0.0032" y="1" relative="1" as="geometry">
+            <mxPoint x="-86" y="220.50000000000006" as="sourcePoint" />
+            <mxPoint x="44.430000000000064" y="219.49" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.146;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6y6oW1CbCKug0-mubhI6-10" source="6y6oW1CbCKug0-mubhI6-13">
+          <mxGeometry x="1" y="148" relative="1" as="geometry">
+            <mxPoint x="55" y="320.38" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="320" />
+            </Array>
+            <mxPoint x="175" y="320" as="sourcePoint" />
+            <mxPoint x="-145" y="-118" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-33" value="用户注册成功" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6y6oW1CbCKug0-mubhI6-10">
+          <mxGeometry x="5" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-12" value="机票预订系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="105" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="6y6oW1CbCKug0-mubhI6-12">
+          <mxGeometry x="45" y="120" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-16" value="检查账号注册&lt;div&gt;是否符合注册要求&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="6y6oW1CbCKug0-mubhI6-12" target="6y6oW1CbCKug0-mubhI6-12">
+          <mxGeometry x="-0.0083" relative="1" as="geometry">
+            <mxPoint x="-104" y="264.7000000000002" as="sourcePoint" />
+            <mxPoint x="326" y="264.7000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-32" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.146;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6y6oW1CbCKug0-mubhI6-12" target="6y6oW1CbCKug0-mubhI6-14">
+          <mxGeometry x="1" y="148" relative="1" as="geometry">
+            <mxPoint x="-100" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="415" />
+              <mxPoint x="-115" y="388" />
+            </Array>
+            <mxPoint x="45" y="385" as="sourcePoint" />
+            <mxPoint x="-145" y="-118" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-14" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="105" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="6y6oW1CbCKug0-mubhI6-14">
+          <mxGeometry x="45" y="100" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-18" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="6y6oW1CbCKug0-mubhI6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="100.13000000000002" as="sourcePoint" />
+            <mxPoint x="186" y="100.13000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-28" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="1" y="148" relative="1" as="geometry">
+            <mxPoint x="705" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="855" y="290" />
+            </Array>
+            <mxPoint x="765" y="290" as="sourcePoint" />
+            <mxPoint x="-145" y="-118" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-29" value="发送到注册页面" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-31" value="如果不符合，需要用户重新填写" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="395" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6y6oW1CbCKug0-mubhI6-19" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706" y="225.37037037037032" as="sourcePoint" />
+            <mxPoint x="855" y="225.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
