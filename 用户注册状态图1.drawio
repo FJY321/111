@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="第 1 页" id="K5CiMynoUOULG9_P86J_">
-    <mxGraphModel>
+    <mxGraphModel dx="1078" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-2" target="Vv2fadIslTkqZ83qGDyv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-2" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-4" target="Vv2fadIslTkqZ83qGDyv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-4" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.90322580645147" y="275.1612903225806" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-7" target="Vv2fadIslTkqZ83qGDyv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-7" value="填写注册信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-8" target="Vv2fadIslTkqZ83qGDyv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-8" value="判断注册是否符合规定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-9" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-8" target="Vv2fadIslTkqZ83qGDyv-7">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="149.94000000000005" y="379.9699999999999" as="sourcePoint" />
+            <mxPoint x="190" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="380" />
+              <mxPoint x="120" y="380" />
+              <mxPoint x="120" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-11" target="Vv2fadIslTkqZ83qGDyv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-11" value="创建成功" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-22" value="用户点击注册" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-23" value="提交注册信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-24" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-26" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vv2fadIslTkqZ83qGDyv-27" target="Vv2fadIslTkqZ83qGDyv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-27" value="系统录入账户信息" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="560" y="367.5" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vv2fadIslTkqZ83qGDyv-29" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
